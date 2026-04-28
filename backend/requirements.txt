@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+pyjwt
+feedparser
+yfinance
+praw
+textblob
+python-multipart
